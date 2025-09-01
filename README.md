@@ -23,10 +23,6 @@ I believe curiosity fuels innovation, and with every project—from **web applic
 - 🌐 **Portfolio:** [moeezjavedmj.vercel.app](https://moeezjavedmj.vercel.app)  
 - 🎯 **TryHackMe:** [MoeezJavedMJ](https://tryhackme.com/r/p/MoeezJavedMJ)  
 
----
-### 🔐 Cybersecurity & Ethical Hacking  
-
-
 <h2>🔐 Cybersecurity & Ethical Hacking</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
