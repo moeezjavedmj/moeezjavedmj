@@ -33,6 +33,9 @@ I also dive into **Full-Stack Development** with **React.js & Node.js**, blendin
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center;">
 
 <!-- Recon -->
+<img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?style=flat&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/-Penetration%20Tester-FF0000?style=flat&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Maltego-333?style=flat&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/-Dmitry-2E86C1?style=flat&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-TheHarvester-800000?style=flat&logo=searchenginemonitor&logoColor=white" />
