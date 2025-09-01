@@ -27,29 +27,26 @@ I believe curiosity fuels innovation, and with every project—from **web applic
 ### 🔐 Cybersecurity & Ethical Hacking  
 
 
+<h2>🔐 Cybersecurity & Ethical Hacking</h2>
 
-### 🔐 Cybersecurity & Ethical Hacking  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?style=flat&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Penetration%20Tester-FF0000?style=flat&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-2E86C1?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLMap-F39C12?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bettercap-6C3483?style=flat&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BeEF-E74C3C?style=flat&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-00AEEF?style=flat&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Autopsy-34495E?style=flat&logo=archive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/-HackTheBox-111927?style=flat&logo=hackthebox&logoColor=green" />
+</div>
 
-<p align="center">
-  
-![Ethical Hacker](https://img.shields.io/badge/-Ethical%20Hacker-000000?style=flat&logo=hackaday&logoColor=white)  
-![Penetration Tester](https://img.shields.io/badge/-Penetration%20Tester-FF0000?style=flat&logo=probot&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-2E86C1?style=flat&logo=metasploit&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=securityscorecard&logoColor=white)  
-![SQLMap](https://img.shields.io/badge/-SQLMap-F39C12?style=flat&logo=sqlite&logoColor=white)  
-![Bettercap](https://img.shields.io/badge/-Bettercap-6C3483?style=flat&logo=gnometerminal&logoColor=white)  
-![BeEF](https://img.shields.io/badge/-BeEF-E74C3C?style=flat&logo=redhat&logoColor=white)  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)  
-![Nessus](https://img.shields.io/badge/-Nessus-00AEEF?style=flat&logo=nessus&logoColor=white)  
-![Autopsy](https://img.shields.io/badge/-Autopsy-34495E?style=flat&logo=archive&logoColor=white)  
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)  
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?style=flat&logo=hackthebox&logoColor=green)  
-
-  
-</p>
 
 **Cybersecurity Tools:**  
 Burp Suite • Nmap/Zenmap • Wireshark • Metasploit • SQLMap • Bettercap • Beef • Splunk • Nessus • Autopsy  
