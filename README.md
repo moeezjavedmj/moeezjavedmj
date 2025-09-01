@@ -26,26 +26,27 @@ I believe curiosity fuels innovation, and with every project—from **web applic
 ---
 ### 🔐 Cybersecurity & Ethical Hacking  
 
+
+
 ### 🔐 Cybersecurity & Ethical Hacking  
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/hacker.png" alt="Ethical Hacker" width="60"/>
-  <img src="https://img.icons8.com/color/96/000000/bug.png" alt="Penetration Tester" width="60"/>
+  <img src="https://img.icons8.com/color/96/anonymous-mask.png" alt="Ethical Hacker" width="60"/>
+  <img src="https://img.icons8.com/color/96/bug.png" alt="Penetration Tester" width="60"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="60"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="60"/>
+  <img src="https://portswigger.net/burp/images/logo.svg" alt="Burp Suite" width="60"/>
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="60"/>
-  <img src="https://www.wireshark.org/assets/icons/wireshark.svg" alt="Wireshark" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Wireshark_icon.svg" alt="Wireshark" width="60"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="60"/>
-  <img src="https://sqlmap.org/images/sqlmap_logo.png" alt="SQLMap" width="60"/>
-  <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" alt="Bettercap" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Sqlmap_logo.png" alt="SQLMap" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/15670559?s=200&v=4" alt="Bettercap" width="60"/>
   <img src="https://avatars.githubusercontent.com/u/18725389?s=200&v=4" alt="BeEF" width="60"/>
   <img src="https://cdn.worldvectorlogo.com/logos/splunk-1.svg" alt="Splunk" width="60"/>
   <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/2019-04/nessus.png" alt="Nessus" width="60"/>
   <img src="https://www.sleuthkit.org/autopsy/images/autopsy-icon.png" alt="Autopsy" width="60"/>
   <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" width="60"/>
-  <img src="https://www.hackthebox.com/images/logo-htb.svg" alt="HackTheBox" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="HackTheBox" width="60"/>
 </p>
-
 
 **Cybersecurity Tools:**  
 Burp Suite • Nmap/Zenmap • Wireshark • Metasploit • SQLMap • Bettercap • Beef • Splunk • Nessus • Autopsy  
