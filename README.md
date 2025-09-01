@@ -32,30 +32,116 @@ I also dive into **Full-Stack Development** with **React.js & Node.js**, blendin
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center;">
 
-<img src="https://img.shields.io/badge/-Ethical%20Hacker-000000?style=flat&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/-Penetration%20Tester-FF0000?style=flat&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit-2E86C1?style=flat&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+<!-- Recon -->
+<img src="https://img.shields.io/badge/-Maltego-333?style=flat&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dmitry-2E86C1?style=flat&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHarvester-800000?style=flat&logo=searchenginemonitor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sherlock-800080?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-GoSpider-006400?style=flat&logo=spider&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hakrawler-228B22?style=flat&logo=spider&logoColor=white" />
+
+<!-- Scanning -->
 <img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat&logo=securityscorecard&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLMap-F39C12?style=flat&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bettercap-6C3483?style=flat&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zenmap-6495ED?style=flat&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Masscan-FF4500?style=flat&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nikto-FF0000?style=flat&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/-DirSearch-008080?style=flat&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wapiti-FFA500?style=flat&logo=bugcrowd&logoColor=white" />
+
+<!-- Passwords -->
+<img src="https://img.shields.io/badge/-Hash%20Identifier-333?style=flat&logo=key&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mimikatz-800000?style=flat&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Medusa-006400?style=flat&logo=skull&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-228B22?style=flat&logo=python&logoColor=white" />
+
+<!-- Exploitation -->
+<img src="https://img.shields.io/badge/-Metasploit-2E86C1?style=flat&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-BeEF-E74C3C?style=flat&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bettercap-6C3483?style=flat&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hping-FF6347?style=flat&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netcat-000000?style=flat&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/-XSS-FF8C00?style=flat&logo=javascript&logoColor=white" />
+
+<!-- Post Exploitation -->
+<img src="https://img.shields.io/badge/-PowerSploit-800080?style=flat&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Priv%20Esc-4682B4?style=flat&logo=windows&logoColor=white" />
+
+<!-- Reverse Engineering -->
+<img src="https://img.shields.io/badge/-Ghidra-FF0000?style=flat&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-Radare2-000000?style=flat&logo=radar&logoColor=white" />
+<img src="https://img.shields.io/badge/-GDB-228B22?style=flat&logo=gnu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Immunity%20Debugger-006699?style=flat&logo=windows&logoColor=white" />
+
+<!-- Steganography -->
+<img src="https://img.shields.io/badge/-Steghide-808080?style=flat&logo=image&logoColor=white" />
+
+<!-- Wireless -->
+<img src="https://img.shields.io/badge/-Fern%20Wifi%20Cracker-006400?style=flat&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wifite-6495ED?style=flat&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Reaver/Bully-FF0000?style=flat&logo=wifi&logoColor=white" />
+
+<!-- Reporting -->
+<img src="https://img.shields.io/badge/-Dradis-333?style=flat&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/-CherryTree-8B0000?style=flat&logo=tree&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shuffle%20SOAR-FF8C00?style=flat&logo=zapier&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nessus-00AEEF?style=flat&logo=nessus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-2E86C1?style=flat&logo=wazuh&logoColor=white" />
+
+<!-- Forensics -->
 <img src="https://img.shields.io/badge/-Autopsy-34495E?style=flat&logo=archive&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" />
-<img src="https://img.shields.io/badge/-HackTheBox-111927?style=flat&logo=hackthebox&logoColor=green" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-TShark-2F4F4F?style=flat&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-PDF%20Pentest-FF4500?style=flat&logo=adobeacrobatreader&logoColor=white" />
+
+<!-- Hardening -->
+<img src="https://img.shields.io/badge/-Lynis-2E8B57?style=flat&logo=debian&logoColor=white" />
+
+<!-- Extra -->
+<img src="https://img.shields.io/badge/-Applied%20Cybersecurity%20Lab-006699?style=flat&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC%20Prep%20Notes-8A2BE2?style=flat&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cyber%20Competition%20Labs-DAA520?style=flat&logo=ctftime&logoColor=white" />
 
 </div>
 
 ---
 
 ## 🛠️ Cybersecurity Toolbox  
-`Burp Suite` • `Nmap/Zenmap` • `Wireshark` • `Metasploit` • `SQLMap` • `Bettercap` • `BeEF` • `Splunk` • `Nessus` • `Autopsy`  
 
----
+### 🔍 Reconnaissance & Information Gathering  
+`Maltego` • `Dmitry` • `TheHarvester` • `Sherlock` • `GoSpider` • `Hakrawler`  
+
+### 📡 Scanning & Enumeration  
+`Nmap` • `Zenmap` • `Masscan` • `Nikto` • `DirSearch` • `Wapiti`  
+
+### 🔑 Passwords, Hashes & Authentication  
+`Hash-Identifier` • `Mimikatz` • `Medusa` • `Hydra`  
+
+### 🎭 Exploitation Frameworks & Tools  
+`Metasploit` • `BeEF` • `Bettercap` • `Hping` • `Netcat` • `XSS`  
+
+### 🕵️ Post-Exploitation & Privilege Escalation  
+`PowerSploit` • `Windows Privilege Escalation Techniques`  
+
+### 🧑‍💻 Reverse Engineering & Debugging  
+`Ghidra` • `Radare2` • `GDB (PEDA/GEF/pwndbg)` • `Immunity Debugger`  
+
+### 🖼 Steganography & Obfuscation  
+`Steghide`  
+
+### 📡 Wireless Security & Cracking  
+`Fern Wifi Cracker` • `Wifite` • `Reaver/Bully`  
+
+### 📝 Reporting & Collaboration  
+`Dradis` • `CherryTree` • `Shuffle SOAR` • `Splunk` • `Wazuh`  
+
+### 🧪 Forensics & Analysis  
+`Autopsy` • `Wireshark` • `TShark` • `PDF Pentesting Tools`  
+
+### 🔒 Security Hardening & Auditing  
+`Lynis`  
+
+### 🎓 Extra / Educational  
+`Applied Cybersecurity Lab (CUST)` • `CC Prep Notes` • `Cyber Competition Labs`  
 
 ## 📊 GitHub Stats  
 
